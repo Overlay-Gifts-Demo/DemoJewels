@@ -1,1 +1,1 @@
-# DemoJewels
+# AiCatalogue
